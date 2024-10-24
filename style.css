@@ -1,0 +1,53 @@
+body{
+   background-color: rgb(126, 12, 12);
+     color: white;
+     text-align: center;
+ }
+ nav{
+     text-align: center;
+ }
+ nav a{
+     font-size: 20px;
+     text-decoration: none;
+    color: black;
+     font-weight: bold;
+ }
+ a:hover{
+     background-color: white}
+ h1{
+     text-align: center;
+     font-size: 36px;
+     color: black;
+ }
+ h2{
+     font-size: 32px;
+ }
+ p{ 
+  font-size: 30px;
+ }
+ div{
+     text-align: center;
+ }
+ div img{
+    width: 600px;
+    height: 600px;
+     border: solid whitesmoke 6px;
+     border-radius: 70px;
+ }
+ small{ font-size: 20px;
+ }
+ div a{
+     color: white;
+     text-decoration: none;
+ }
+ pre{
+     font-size: 20px;
+ }
+ a{
+     font-size: 40px; 
+     text-decoration: black;
+ }
+.video iframe{
+    border-radius: 16px;
+    border: solid whitesmoke 6px;
+}
